@@ -11,8 +11,10 @@ Reusable workshop knowledge independent of any one garment. Project notes record
 
 ## Machines and workspace
 
-- [Machine inventory](machines/README.md) — owned vs candidate equipment.
-- [Brother CS-6000i](machines/brother-cs-6000i.md) — lighter work and tested heavy-canvas limits.
+- [Machine inventory](machines/README.md) — three current machines, with owned vs candidate equipment distinguished.
+- [Juki DDL-8700](machines/juki-ddl-8700.md) — primary straight-stitch machine; shirting tension and needle/thread trials.
+- [Brother CS-6000i](machines/brother-cs-6000i.md) — currently used only for buttonholes; past heavy-canvas limitations.
+- [Buttonholes](buttonholes.md) — current workflow, sizes, repeatability, and alternatives.
 - [Singer Quantumlock 4](machines/singer-quantumlock-4.md) — service history and accepted serger settings.
 - [Heavy-fabric straight-stitch machine research](machines/heavy-stitch-machine-research.md) — walking feed and Sailrite/industrial comparisons.
 - [Temporary workspace](workspace.md) — barn/basement setup constraints.
