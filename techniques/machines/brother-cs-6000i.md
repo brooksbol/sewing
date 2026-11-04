@@ -18,3 +18,9 @@ Do not generalize this outcome to all sewing machines or assume it reflects a pa
 ## Current buttonhole role
 
 The automatic buttonhole system has worked inconsistently on fine cotton broadcloth. The plastic foot was viewed as flimsy, but no cause has been established. See [buttonhole reference](../buttonholes.md) for sizes, tests, and contemplated improvements; no dedicated replacement machine is documented.
+
+## Needle finding — 2026-11-04
+
+**Direct maker observation:** **Microtex 70/10** is the only needle type/size tested so far that does **not** jam or bend during the Brother's buttonhole operation. This is the current proven needle choice for this machine's buttonholes; other needles the maker tried jammed or bent. Specific alternative needles and brands tested were not enumerated.
+
+Single-layer heavy canvas buttonholes have already been tested. Double-canvas placket tests and alternate thread weights are planned, **not yet reported as successful**. Preserve Microtex 70/10 as the baseline test variable, rather than replacing it with a generic 80/12 recommendation.
