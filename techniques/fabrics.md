@@ -16,6 +16,16 @@ See [barn coat construction](../projects/barn-coat/construction.md).
 
 A sample described as lighter than ordinary denim but heavier than Oxford cloth was used for a Singer Quantumlock 4 overlock adjustment. The resulting stitch sample was accepted. See [serger settings](machines/singer-quantumlock-4.md).
 
+## Painter's canvas drop cloth
+
+**Observed in earlier workwear thread (summary provided 2026-11-04):** washed, dried and pressed, then used for flat-felled-seam practice, overlapping layer tests, and reinforcement/corner work on the Brother CS-6000i.
+
+Appearance reported as grayish-khaki, slightly slubby with pleasant hand after washing; plain weave looks similar on both sides. One face may be a little smoother. Select a consistent face and mark the wrong side if used for a garment.
+
+Described qualitatively as between muslin and cotton duck in weight, but **actual oz/yd² and fiber composition were not established**. Other unknowns: long-term shrinkage, strength, abrasion, colorfastness and possible residual treatments. Potential projects discussed: overshirts, chore coats, aprons, smocks and light workwear; these remain ideas rather than confirmed constructions.
+
+See [Brother canvas testing](machines/brother-cs-6000i.md).
+
 ## General recording discipline
 
 When new fabric observations arrive, preserve fiber content when known, weave, approximate weight, source, wash/pre-shrink treatment, needle/thread/foot settings, pressing/feeding behavior, fraying, seam bulk, and actual tested outcome. Never infer these from a store name alone.
