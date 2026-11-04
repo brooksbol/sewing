@@ -48,6 +48,16 @@ The maker reports sewing the one-piece sleeve's long seam with **2 cm seam allow
 4. Verify adjustments in heavier material before cutting the military twill.
 5. Prototype pocket shape, turned facing/hem corners, and later lining assembly.
 
+
+## Collar and closure — clarified 2026-11-04
+
+- Proposed wide, standless shirt-like collar; point shape still undecided (pointed or rounded).
+- **Corduroy upper collar; felt undercollar.** When folded down, corduroy is visible and felt lies against the **outside of the coat body**, not against the wearer's neck. When turned up, felt is exposed.
+- Considering a center-back buttonhole through the collar fastening to a button beneath it.
+- Available tortoiseshell button assortment: **1 in** looks good at front placket, **5/8 in** at upper flap pockets, **1/2 in or smaller** for center-back collar. Metal jeans buttons are available but looked undersized for main placket.
+- A heavy zipper would be more convenient for work, but the maker **intentionally prefers a button-front aesthetic**. Do not treat zipper substitution as the design goal.
+- Intended use is real workwear: automotive maintenance, woodworking, snow plowing, cleaning and dirt work. Balance appearance with abrasion, laundering, repair and functional pockets; workwear function is not merely styling.
+
 ## Other notes
 
 - [Fitting log](fitting-log.md) — dated observations and measurement record.
