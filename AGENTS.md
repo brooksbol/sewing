@@ -7,7 +7,7 @@ This is a multi-project sewing workshop knowledge base, **not** a software proje
 1. Read this `AGENTS.md` and root `README.md`.
 2. Identify whether the task concerns a **garment project**, a **person**, or a **shared technique/equipment reference**. It may touch more than one.
 3. Read the appropriate index: `projects/<garment>/README.md`, `people/README.md` and the relevant wearer profile if present, or `techniques/README.md` and linked technique/machine notes.
-4. Follow cross-references for actual source observations; use relevant fitting logs and historical notes when needed.
+4. Follow cross-references for actual source observations; use relevant fitting logs and historical notes when needed. For Drive-backed material consult [references/google-drive.md](references/google-drive.md) and fetch current files with connected Drive access when the task depends on them. GitHub links are not a mirror and access permissions must not be assumed.
 5. State what is established versus what is proposed; if asked to persist knowledge, update the canonical relevant notes and cross-links.
 
 ## Information architecture
