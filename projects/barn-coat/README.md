@@ -6,7 +6,7 @@
 
 A long, straight, practical but refined barn/work coat: Ralph Lauren Western/workwear character with Tractor Supply usefulness. Reference: a tan Ralph Lauren workwear coat with contrasting dark-brown corduroy collar, upper flap pockets, large lower pockets, traditional buttons, and a generous straight body. Fit over a sweater; err toward longer length. No yoke, waist darts/suppression, zipper, or tucked-in styling. Split center-back body panels are intended.
 
-**Finished fabric:** military twill, described as nicer than the relatively heavy sale canvas from Hobby Lobby used for the first prototype. Target is a soft, durable medium-weight twill/canvas rather than stiff heavy duck. Fully lined eventually; flannel body and slick Bemberg/cupro sleeve lining have been considered but not finalized.
+**Finished fabric:** military twill, described as nicer than the relatively heavy sale canvas from Hobby Lobby used for the first prototype. Target is a soft, durable medium-weight twill/canvas rather than stiff heavy duck. Fully lined: **heavy flannel in the bodice and Bemberg (cupro) in the sleeves** (maker's current material decision, 2026-11-04).
 
 ## Current pattern
 
@@ -57,6 +57,13 @@ The maker reports sewing the one-piece sleeve's long seam with **2 cm seam allow
 - Available tortoiseshell button assortment: **1 in** looks good at front placket, **5/8 in** at upper flap pockets, **1/2 in or smaller** for center-back collar. Metal jeans buttons are available but looked undersized for main placket.
 - A heavy zipper would be more convenient for work, but the maker **intentionally prefers a button-front aesthetic**. Do not treat zipper substitution as the design goal.
 - Intended use is real workwear: automotive maintenance, woodworking, snow plowing, cleaning and dirt work. Balance appearance with abrasion, laundering, repair and functional pockets; workwear function is not merely styling.
+
+## Lining assembly — updated 2026-11-04
+
+- **Material decision:** heavy flannel body lining and slick Bemberg/cupro sleeve lining; no lining assembled yet.
+- **Proposed construction order:** collar assembly / neckline connection last, to enclose the upper attachment of shell and lining; sequence and front-facing/collar-end intersections remain to be proven on a toile.
+- **Neck orientation correction:** the felt undercollar is against the outer shell when folded down, not the skin. At the back neckline the **body lining** faces the wearer. When collar is raised, felt is exposed and corduroy faces toward the neck.
+- Preserve lining movement ease and avoid tension at neckline during reach. The final closure method is not yet tested.
 
 ## Other notes
 
