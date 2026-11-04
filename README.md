@@ -25,6 +25,10 @@ A version-controlled workshop notebook for drafting, fitting, garment constructi
 - [Hand sewing and basting](techniques/hand-sewing.md)
 - [Temporary workspace](techniques/workspace.md)
 
+## External references
+
+- [Google Drive Sewing folder and source index](references/google-drive.md) — working drafting documents, measurement forms, and other Drive assets; linked, not copied to this public repository.
+
 ## Organization
 
 - `projects/<garment>/`: what was designed, drafted, fitted, made, tested, or changed in a particular garment project.
