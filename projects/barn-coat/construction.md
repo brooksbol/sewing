@@ -33,13 +33,13 @@
 - Experimenting with buttoned upper pockets and slide-in lower pockets; final pocket architecture and scale are open.
 - Matching shell fabric sewn right-sides-together then turned inward to finish front placket/facing and lower hem, like a shirt cuff. Intended inner attachment edge for lining. Still experimental: investigate front/hem corner intersections and bulk, as well as lining slack.
 
-## Singer Quantumlock 4 serger — historical accepted sample
+## Shared workshop references
 
-- Singer Quantumlock 4; identification plate says **Model Series 14U**; precise subtype not confirmed.
-- Width dial accessible beneath free-arm cover, avoiding knife screw adjustment.
-- Width approximately **5 mm**; both looper tensions loosened roughly one dial step; needle tensions unchanged.
-- Shorter of two trial stitch lengths produced preferred flat, well-covered edge sample on medium canvas twill.
-- Baseline retained for other projects/material trials, **not** an instruction to serge this coat's lined shell seams.
+- [Seam constructions and topstitching](../../techniques/seams.md)
+- [Fabric behavior](../../techniques/fabrics.md)
+- [Singer Quantumlock 4 baseline](../../techniques/machines/singer-quantumlock-4.md)
+
+The serger sample belongs to the reusable machine reference, not this coat's required seam finishes.
 
 ## Open assembly details
 
