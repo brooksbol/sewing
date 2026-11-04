@@ -17,6 +17,11 @@ A version-controlled workshop notebook for drafting, fitting, garment constructi
 - [Seams and edge finishing](techniques/seams.md)
 - [Machine inventory](techniques/machines/README.md)
 - [Singer Quantumlock 4 settings](techniques/machines/singer-quantumlock-4.md)
+- [Brother CS-6000i](techniques/machines/brother-cs-6000i.md)
+- [Heavy-fabric machine research](techniques/machines/heavy-stitch-machine-research.md)
+- [Hardware and grommets](techniques/hardware.md)
+- [Hand sewing and basting](techniques/hand-sewing.md)
+- [Temporary workspace](techniques/workspace.md)
 
 ## Organization
 
@@ -28,7 +33,7 @@ Preserve **observations**, **hypotheses**, **decisions**, and **unresolved quest
 
 ## Provenance and privacy
 
-Initial barn coat content was reconstructed from a non-verbatim context export through 2026-11-04 and direct follow-up observations. Do not reproduce copyrighted drafting-book pages. **This repository is public**: measurements, wearer names, and garment logs are visible when committed. Avoid sensitive or identifying facts without deliberate approval.
+Initial notes include non-verbatim reconstructed conversation summaries supplied on 2026-11-04. Equipment/model assertions from historical summaries should be verified before purchases or service. Initial barn coat content was reconstructed from a non-verbatim context export through 2026-11-04 and direct follow-up observations. Do not reproduce copyrighted drafting-book pages. **This repository is public**: measurements, wearer names, and garment logs are visible when committed. Avoid sensitive or identifying facts without deliberate approval.
 
 ## Assistant and Codex bootstrap
 
