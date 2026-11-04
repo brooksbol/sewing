@@ -1,18 +1,24 @@
-# Machine and related equipment inventory
+# Sewing machine inventory
 
-## Owned
+**Current equipment and use — directly confirmed by maker, 2026-11-04.**
 
-| Equipment | Role | Status / evidence |
+| Owned machine | Current role | Notes |
 |---|---|---|
-| [Brother CS-6000i](brother-cs-6000i.md) | General/lightweight sewing and muslin | Owned; operational in historical summary; struggles with heavy multilayer canvas |
-| [Singer Quantumlock 4 serger](singer-quantumlock-4.md) | Overlocking / edge finishing | Owned; cleaned, re-oiled, operational; plate states Model Series 14U, exact subtype unverified |
-| Hammer/mandrel grommet kit | Portable field repairs and practice | Owned; observed some weak installs. See [hardware](../hardware.md) |
-| Yokota Daruma 40/2 cotton basting thread | Muslin basting and marks | Owned. See [hand sewing](../hand-sewing.md) |
+| [Juki DDL-8700](juki-ddl-8700.md) | **~99% of stitching** | Industrial straight-stitch; used for garment construction and topstitching |
+| [Brother CS-6000i](brother-cs-6000i.md) | **Buttonholes only** | Prior general/lightweight use and heavy-canvas experiments are historical |
+| [Singer Quantumlock 4](singer-quantumlock-4.md) | **Serging/overlocking** | Owned, operational; identification plate says Series 14U; specific submodel unverified |
 
-## Research / considered, not owned on available evidence
+This direct update **supersedes** the earlier research note that a Juki DDL-8700 was only being considered. There is no evidence of a Sailrite purchase.
 
-- [Heavy-fabric straight-stitch candidates](heavy-stitch-machine-research.md), including Sailrite LS-1 (leading candidate) and industrial alternatives. No purchase recorded.
-- Professional manual grommet press, dies and quality grommets: under consideration, not purchased.
-- Milliners needles: preferred type researched; purchase not established.
+## Other owned sewing-related supplies
 
-Use new direct observations to revise current status. Manufacturer specifications, compatible replacement parts, and Singer submodel remain subject to confirmation.
+- Hammer/mandrel grommet kit — field repairs and practice, with some inadequate grips; see [hardware](../hardware.md).
+- Yokota Daruma 40/2 cotton thread — muslin basting and marks; see [hand sewing](../hand-sewing.md).
+
+## Research / contemplated, not owned on present evidence
+
+- [Heavy-fabric walking-feed candidates](heavy-stitch-machine-research.md), notably Sailrite Ultrafeed LS-1.
+- Professional manual grommet press and matching dies.
+- Milliners needles and dedicated/mechanical buttonhole equipment; see [buttonholes](../buttonholes.md).
+
+Historical thread summaries and specifications may be dated. Verify machine subtype, supplies and parts compatibility from labels/manuals before ordering.
