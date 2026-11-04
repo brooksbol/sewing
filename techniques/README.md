@@ -2,11 +2,19 @@
 
 Reusable workshop knowledge independent of any one garment. Project notes record **what was tried on that garment**; these references record **what was learned that may transfer**.
 
-## Reference notes
+## Fabric, construction and handwork
 
-- [Fabrics](fabrics.md) — handling and behavior of specific fabrics.
-- [Seam constructions and finishing](seams.md) — structural seams, topstitching, edge finishing.
-- [Machine inventory](machines/README.md) — equipment index and confirmed identities.
-- [Singer Quantumlock 4](machines/singer-quantumlock-4.md) — recorded serger adjustments.
+- [Fabrics](fabrics.md) — canvas, drop cloth, twill, handling and unknown properties.
+- [Seams and edge finishing](seams.md) — flat-felled seams, structural and decorative stitching, facing and hem finishes.
+- [Hand sewing and basting](hand-sewing.md) — Daruma 40/2, milliners needles, tailor's tacks.
+- [Hardware installation](hardware.md) — grommets, observed failures and press research.
 
-Add dedicated files for other techniques or machines when actual material arrives. Each recorded setting should state fabric, thread/needle if known, tested outcome, date/source, and whether it is a general baseline or project-only experiment. Treat settings as reproducible starting points, not universal recipes.
+## Machines and workspace
+
+- [Machine inventory](machines/README.md) — owned vs candidate equipment.
+- [Brother CS-6000i](machines/brother-cs-6000i.md) — lighter work and tested heavy-canvas limits.
+- [Singer Quantumlock 4](machines/singer-quantumlock-4.md) — service history and accepted serger settings.
+- [Heavy-fabric straight-stitch machine research](machines/heavy-stitch-machine-research.md) — walking feed and Sailrite/industrial comparisons.
+- [Temporary workspace](workspace.md) — barn/basement setup constraints.
+
+When recording new settings, include cloth, thread/needle if known, date/source, tested outcome, and whether the setting is general or only one project's experiment. Do not conflate historical buying interest with equipment currently owned; verify part numbers before purchasing.
