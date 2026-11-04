@@ -38,3 +38,9 @@ The **Brother CS-6000i** is now used **only for buttonholes**; the Juki DDL-8700
 For broadcloth, discussed but not verified on final garments: light interfacing, removable stabilizer where necessary, the proven Microtex 70/10 needle, testing 40 wt satin-stitch thread, supporting garment weight, and chisel/cutting-block opening.
 
 See [Brother CS-6000i](machines/brother-cs-6000i.md) for actual machine use. The quality challenge is still unresolved on available evidence.
+
+## Barn coat canvas buttonhole sample — 2026-11-04
+
+**Direct maker report, with photograph supplied in conversation (not stored in GitHub):** A test buttonhole was stitched on heavy light-colored canvas using **Sabo 120 cotton** thread and **polyester embroidery thread in the bobbin**. The maker's previously proven Brother needle is **Microtex 70/10**; needle identity for this particular photo was not independently reconfirmed. The photograph shows a dark stitched buttonhole with defined parallel columns and robust end bars, minor visible stitch variation, and no obvious extensive surrounding fabric puckering.
+
+**Assessment:** early indications positive for a sample. The maker explicitly distinguishes stable sample sewing from production buttonholes on a large, heavy assembled coat, where garment mass, fabric support, feeding, and alignment add difficulty. The photo alone does not verify layer count or durability, nor does it establish reliable repeatability on the completed double-canvas placket. The double-layer test and full-garment test remain open unless separately confirmed.
