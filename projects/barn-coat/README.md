@@ -58,6 +58,10 @@ The maker reports sewing the one-piece sleeve's long seam with **2 cm seam allow
 - A heavy zipper would be more convenient for work, but the maker **intentionally prefers a button-front aesthetic**. Do not treat zipper substitution as the design goal.
 - Intended use is real workwear: automotive maintenance, woodworking, snow plowing, cleaning and dirt work. Balance appearance with abrasion, laundering, repair and functional pockets; workwear function is not merely styling.
 
+## Fabric preparation — confirmed 2026-11-04
+
+**All fabrics for this coat have already been high-heat laundered**, per direct maker update. This includes the selected shell, lining and collar materials; do not present prewashing as an outstanding step. Subsequent differential shrinkage or material performance has not been measured.
+
 ## Lining assembly — updated 2026-11-04
 
 - **Material decision:** heavy flannel body lining and slick Bemberg/cupro sleeve lining; no lining assembled yet.
