@@ -1,21 +1,35 @@
 # Sewing
 
-A version-controlled workshop notebook for garment drafting, fitting, construction, machine setup, and lessons learned.
+A version-controlled workshop notebook for drafting, fitting, garment construction, alterations, equipment, and lessons learned.
 
-## Projects
+## Sewing projects
 
 - [Barn coat](projects/barn-coat/README.md) — in progress; Winifred Aldrich basic overgarment draft.
 
-## How this notebook works
+## People
 
-Each garment lives under `projects/<project-name>/`, with a short current-state page, a dated fitting log, construction notes, and relevant history. Keep **observations**, **hypotheses**, **decisions**, and **open questions** distinct. Record actual dimensions with units and specify whether measurements are made on stitching lines or cutting edges. Do not silently promote a fitting experiment into a final pattern decision.
+- [People index](people/README.md) — wearer measurements, fitting preferences, and garment construction/alteration logs. Profiles will be added as evidence is supplied.
 
-New projects can start with a `README.md` containing design intent, source pattern, current stage, confirmed decisions, open questions, and links to supporting notes. Add photographs, diagrams, or pattern files only when useful and with clear provenance. Existing records should be updated as work progresses rather than duplicated into competing “current” documents.
+## Techniques and workshop reference
 
-## Sources and provenance
+- [Techniques index](techniques/README.md)
+- [Fabrics](techniques/fabrics.md)
+- [Seams and edge finishing](techniques/seams.md)
+- [Machine inventory](techniques/machines/README.md)
+- [Singer Quantumlock 4 settings](techniques/machines/singer-quantumlock-4.md)
 
-The initial barn coat notes were reconstructed from a prior sewing conversation and a supplied context export through 2026-11-04. They are **not** a verbatim transcript. Drafting references and measurements are notes, not replacements for the source books or the maker's actual pattern pieces. This is a public repository; avoid posting private information or copyrighted book scans.
+## Organization
 
-## Working with an assistant or Codex
+- `projects/<garment>/`: what was designed, drafted, fitted, made, tested, or changed in a particular garment project.
+- `people/<wearer>/`: dated measurements, fit preferences, garments constructed for or altered for the person, and later repair/alteration history. Link to projects rather than duplicating their narrative.
+- `techniques/`: transferable procedures, fabric behavior, seam methods, machine inventory, configuration, and workshop observations. Link back to the actual trial or project.
 
-Start with [AGENTS.md](AGENTS.md), then the relevant project's README and linked notes. The repository is the durable project record; a chat summary should not override newer repository entries.
+Preserve **observations**, **hypotheses**, **decisions**, and **unresolved questions** separately. Measurements should include units, method, date, and seam-line versus cutting-edge basis where relevant. Add details as new thread context is supplied; do not turn speculation into facts.
+
+## Provenance and privacy
+
+Initial barn coat content was reconstructed from a non-verbatim context export through 2026-11-04 and direct follow-up observations. Do not reproduce copyrighted drafting-book pages. **This repository is public**: measurements, wearer names, and garment logs are visible when committed. Avoid sensitive or identifying facts without deliberate approval.
+
+## Assistant and Codex bootstrap
+
+Read [AGENTS.md](AGENTS.md), then the relevant indexes and source notes. Repository records are durable project memory; prefer newer dated evidence over older context summaries.
