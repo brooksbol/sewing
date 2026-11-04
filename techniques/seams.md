@@ -25,6 +25,12 @@ Reusable techniques observed or considered in actual garments. Techniques are no
 
 On a planned fully lined coat, hidden plain shell seam allowances need not all be flat-felled or overlocked. The maker currently does neither on barn coat canvas. This is a garment-specific choice, **not** evidence that every concealed seam on every fabric can safely remain untreated. Inspect fraying and grade at bulky intersections.
 
+## Flat-felled seams and multilayer reinforcement practice
+
+**Practiced on laundered painter's drop cloth** using the Brother CS-6000i, together with doubled stitch rows and reinforced corners intended for grommets. Multiple folds/intersections exposed E6 errors and inconsistent feeding, a machine limitation rather than a universal failure of the seam technique. See [Brother CS-6000i](machines/brother-cs-6000i.md) and [hardware](hardware.md).
+
+Flat-felled seams are useful for some heavy-woven work; they are **not** the chosen default for the lined barn coat, where open structural seams are intentionally hidden.
+
 ## Notes for future entries
 
 For each seam construction, distinguish its structural stitch, seam allowance, pressing, visible topstitch pattern, fabric constraints, and whether the maker has actually tested it. Keep a link to the relevant garment project.
