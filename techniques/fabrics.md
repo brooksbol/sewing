@@ -26,6 +26,10 @@ Described qualitatively as between muslin and cotton duck in weight, but **actua
 
 See [Brother canvas testing](machines/brother-cs-6000i.md).
 
+## Barn coat preparation — 2026-11-04
+
+The maker directly confirms **all fabrics have been high-heat laundered** before construction. This supersedes earlier ambiguity about prewashing the military twill, heavy flannel, Bemberg sleeve lining, corduroy, and felt. No numerical shrinkage or post-wash dimensional comparisons have been recorded. See [barn coat](../projects/barn-coat/README.md).
+
 ## General recording discipline
 
 When new fabric observations arrive, preserve fiber content when known, weave, approximate weight, source, wash/pre-shrink treatment, needle/thread/foot settings, pressing/feeding behavior, fraying, seam bulk, and actual tested outcome. Never infer these from a store name alone.
