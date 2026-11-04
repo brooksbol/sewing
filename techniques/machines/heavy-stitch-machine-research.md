@@ -1,6 +1,6 @@
 # Heavy-woven straight-stitch machine research
 
-**Status:** Historical comparison and shopping preferences as of supplied thread export (2026-11-04), **not purchase decisions or independently verified product specifications**.
+**Status:** Historical shopping study. **Important later correction (directly confirmed 2026-11-04): the Juki DDL-8700 was acquired and is now the primary machine used for ~99% of stitching.** Original comparison figures are not independently verified specifications. See [current Juki record](juki-ddl-8700.md).
 
 ## Intended capability
 
@@ -15,7 +15,7 @@ Feed distinction: accessory walking foot on a drop-feed machine is not identical
 | [Brother CS-6000i](brother-cs-6000i.md) | Owned drop-feed domestic; struggles with heavy intersections | Owned |
 | Pfaff 1222E | Integrated dual feed; ~4 mm stitch length discussed | Considered |
 | Juki TL-2010Q | Precise drop-feed straight stitch; ~6 mm discussed | Considered |
-| Juki DDL-8700 | Industrial drop feed; ~5 mm discussed; permanent table footprint | Used setup considered, not purchased |
+| [Juki DDL-8700](juki-ddl-8700.md) | Industrial drop feed; ~5 mm discussed; permanent table footprint | **Owned and primary machine now** |
 | Singer 31-15 | Vintage industrial drop feed; exact variant matters | Considered |
 | Singer 111W155 | Vintage compound-feed candidate | Considered |
 | Consew 206RB-5 | Compound walking feed; ~10 mm discussed | Considered |
@@ -25,9 +25,9 @@ Feed distinction: accessory walking foot on a drop-feed machine is not identical
 
 These are approximate figures as discussed, not checked manufacturer specifications. Verify the exact model/version before purchase.
 
-### Juki DDL-8700 opportunity
+### Juki DDL-8700 historical opportunity
 
-Used complete $900 setup noted (head, table, servo, chair, accessories). Price appeared plausible, but drop feed, ~5 mm discussed stitch length, and permanent footprint detracted. **No purchase recorded.**
+An earlier $900 complete used setup was considered (head, table, servo, chair and accessories). **The maker now owns and uses a DDL-8700**, but the source does not establish whether it is the same $900 listing or what was paid. The earlier portability/feeding concerns remain part of the shopping history, not a current nonownership status.
 
 ### Sailrite LS-1 preference
 
